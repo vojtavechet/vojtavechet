@@ -15,12 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vojtavechet&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+### ✍️ Quote
+hi
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhello-gifs&psig=AOvVaw0hD480wCN-xJzOoIIMaRcp&ust=1665125949862000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMj3leWDy_oCFQAAAAAdAAAAABAD)
 
