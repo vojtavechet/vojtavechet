@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I study at spsmb<br><br>🌱 I’m currently learning JS, Java<br><br>
 
-i like football<br><br>
+I like football<br><br>
 
 I play volleyball<br><br> 1️⃣6️⃣<br><br>
 
