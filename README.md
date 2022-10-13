@@ -19,7 +19,5 @@ I play volleyball<br><br> 1️⃣6️⃣<br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vojtavechet&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Quote
-hi
 
 
